@@ -1,0 +1,7 @@
+D:\Учеба\3 сем\Прога\Dz\DzMY\DzMY\bin\Debug\DzMY.exe.config
+D:\Учеба\3 сем\Прога\Dz\DzMY\DzMY\bin\Debug\DzMY.exe
+D:\Учеба\3 сем\Прога\Dz\DzMY\DzMY\bin\Debug\DzMY.pdb
+D:\Учеба\3 сем\Прога\Dz\DzMY\DzMY\obj\Debug\DzMY.csprojAssemblyReference.cache
+D:\Учеба\3 сем\Прога\Dz\DzMY\DzMY\obj\Debug\DzMY.csproj.CoreCompileInputs.cache
+D:\Учеба\3 сем\Прога\Dz\DzMY\DzMY\obj\Debug\DzMY.exe
+D:\Учеба\3 сем\Прога\Dz\DzMY\DzMY\obj\Debug\DzMY.pdb
